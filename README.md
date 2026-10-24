@@ -91,6 +91,34 @@ Firestore • Cloud Messaging • Room Database
 
 <div align="center">
 
+
+## GitHub Analytics
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=A7med1070&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A7med1070&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A7med1070&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
 ## Project Setup & How to Run Locally
 
 </div>
@@ -99,42 +127,3 @@ Firestore • Cloud Messaging • Room Database
 
 ### Prerequisites
 * [Android Studio](https://developer.android.com/studio) installed on your machine.
-* Android SDK & Emulator or a physical device for testing.
-
-### Run Locally
-
-1. Open **Android Studio**.
-2. Select **Open** and choose the root directory of this project.
-3. Allow Android Studio to sync Gradle and build the dependencies.
-4. Create a file named `.env` in the root project directory and set your environment variables or API keys (e.g., `API_KEY=your_key_here`).
-5. Run the app on an emulator or a connected physical Android device.
-
----
-
-<br>
-
-<div align="center">
-
-## Connect With Me
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/menna-elwan/">
-<img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:menna3lwan@gmail.com">
-<img src="https://img.shields.io/badge/Email-2ac3de?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/menna3lwan">
-<img src="https://img.shields.io/badge/GitHub-1f2335?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
